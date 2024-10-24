@@ -1,0 +1,22 @@
+body {
+    background-color: #434a31;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #a37070;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #afb365;
+}
+
+.nav-link {
+    color: rgb(174, 22, 22);
+}
+
+.nav-link:hover {
+    color: yellow;
+}
+
